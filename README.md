@@ -20,7 +20,7 @@ Packages & Technologies used in the repo:
 - `styled-components`
 
 ### Submission guide
-Please fork this repo and drop your contact person a note once you are done
+Please create a git repository of your solution and send the link to your contact person once you are done.
 
 ### How we review
 - **Design**: Were you able to translate the mockup into a web application that works well on various browsers and devices? Does the output match the mockup? This is the most important aspect. Weight: 50%
