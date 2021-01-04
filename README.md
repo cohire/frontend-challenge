@@ -38,5 +38,5 @@ Please create a git repository of your solution and send the link to your contac
 - **Production-readiness** - Is there proper error handling? Is the code ready to put into production? Code-Splitting?
 - **Future-readiness** - React Hooks? Web workers? PWA? Client-side caching?
 
-[mockup]: <https://drive.google.com/file/d/1_UckmdKpjack6ObU1iRejZvQIx7LG8uJ/view?usp=sharing>
+[mockup]: <https://cord-coding-challenges.s3-eu-west-1.amazonaws.com/frontend-test-mockups.zip>
 [theMovieDB]: <https://www.themoviedb.org/documentation/api>
